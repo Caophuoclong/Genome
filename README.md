@@ -21,6 +21,8 @@ for your own machine. I'll do my best to answer questions related to parameters 
 - Calendar: Gnome Calendar
 - Tasks: Taskwarrior with [ptask](https://wpitchoune.net/ptask/) frontend
 - Pomodoro timer: [Pomotroid](https://github.com/Splode/pomotroid)
+- Notes: [Joplin](https://github.com/laurent22/joplin)
+- Office Suite: Libreoffice
 - Chat: Discord with [BandagedBD](https://github.com/rauenzi/BetterDiscordApp) and Polari irc client
 - Fetch: Neofetch
 - Widgets: [Eww](https://github.com/elkowar/eww)
