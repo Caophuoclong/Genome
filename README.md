@@ -34,6 +34,7 @@ for your own machine. I'll do my best to answer questions related to parameters 
 ## FAQ
 
 ### How are you getting space around your qtile bar widgets?
-I use eww windows that run along the top and bottom of the bar to cover up the fact that the widget backgrounds extend the entire bar. See ~/.config/eww.xml and ~/.config/qtile/autostart.sh for the relevant sections
-
+- I use eww windows that run along the top and bottom of the bar to cover up the fact that the widget backgrounds extend the entire bar. See ~/.config/eww.xml and ~/.config/qtile/autostart.sh for the relevant sections.
+***
+## Current Screenshots
 <img src="https://raw.githubusercontent.com/Barbarossa93/Genome/main/out.png" alt="img" align="center" width="900px">
