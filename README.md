@@ -18,7 +18,7 @@ for your own machine. I'll do my best to answer questions related to parameters 
 - File manager: Nautilus
 - Editor: [Code](https://github.com/microsoft/vscode) and Neovim
 - Email: Geary
-- Calendar: Gnome Calendar
+- Calendar: Pantheon Calendar
 - Tasks: Taskwarrior with [ptask](https://wpitchoune.net/ptask/) frontend
 - Pomodoro timer: [Pomotroid](https://github.com/Splode/pomotroid)
 - Notes: [Joplin](https://github.com/laurent22/joplin)
